@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+backend_server.log
+backend_server.err
+frontend_server.log
+frontend_server.err
+
+.DS_Store
+Thumbs.db
